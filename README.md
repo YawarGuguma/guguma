@@ -5,3 +5,4 @@ Reading the text file and removing spaces from the text inside .txt files;
 Sliding window using for loop (funny);
 Sliding window using while loop (funnier);
 Convert video to frames;
+Convert sequence of frames (as per their title) to video;

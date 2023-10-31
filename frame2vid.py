@@ -3,7 +3,7 @@
 import cv2
 import os
 
-image_folder = './'
+image_folder = '/path/to/your/image_folder'
 video_name = '.avi'
 
 # sorted frames list
